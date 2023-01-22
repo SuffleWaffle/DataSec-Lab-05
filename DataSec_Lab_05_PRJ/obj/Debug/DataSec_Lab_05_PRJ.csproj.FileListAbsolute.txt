@@ -1,0 +1,11 @@
+C:\Users\User\RiderProjects\DataSec_Lab_05\DataSec_Lab_05_PRJ\bin\Debug\DataSec_Lab_05_PRJ.exe.config
+C:\Users\User\RiderProjects\DataSec_Lab_05\DataSec_Lab_05_PRJ\bin\Debug\DataSec_Lab_05_PRJ.exe
+C:\Users\User\RiderProjects\DataSec_Lab_05\DataSec_Lab_05_PRJ\bin\Debug\DataSec_Lab_05_PRJ.pdb
+C:\Users\User\RiderProjects\DataSec_Lab_05\DataSec_Lab_05_PRJ\obj\Debug\DataSec_Lab_05_PRJ.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\DataSec_Lab_05\DataSec_Lab_05_PRJ\obj\Debug\DataSec_Lab_05_PRJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\RiderProjects\DataSec_Lab_05\DataSec_Lab_05_PRJ\obj\Debug\DataSec_Lab_05_PRJ.Form1.resources
+C:\Users\User\RiderProjects\DataSec_Lab_05\DataSec_Lab_05_PRJ\obj\Debug\DataSec_Lab_05_PRJ.Properties.Resources.resources
+C:\Users\User\RiderProjects\DataSec_Lab_05\DataSec_Lab_05_PRJ\obj\Debug\DataSec_Lab_05_PRJ.csproj.GenerateResource.cache
+C:\Users\User\RiderProjects\DataSec_Lab_05\DataSec_Lab_05_PRJ\obj\Debug\DataSec_Lab_05_PRJ.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DataSec_Lab_05\DataSec_Lab_05_PRJ\obj\Debug\DataSec_Lab_05_PRJ.exe
+C:\Users\User\RiderProjects\DataSec_Lab_05\DataSec_Lab_05_PRJ\obj\Debug\DataSec_Lab_05_PRJ.pdb
